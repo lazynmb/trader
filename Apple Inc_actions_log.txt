@@ -1,0 +1,31 @@
+Initialized researcher for Apple Inc
+Creating report for Apple Inc
+Searching Google for: Apple Inc stock news
+Found 11 results
+Fetching news from URL: https://www.cnbc.com/quotes/AAPL
+Fetching news from URL: https://finance.yahoo.com/quote/AAPL/news/
+Fetching news from URL: https://www.marketwatch.com/investing/stock/aapl
+Fetching news from URL: https://finance.yahoo.com/quote/AAPL/
+Fetching news from URL: https://www.wsj.com/market-data/quotes/AAPL
+Fetching news from URL: https://www.nasdaq.com/market-activity/stocks/aapl/news-headlines
+Fetching news from URL: https://markets.businessinsider.com/stocks/aapl-stock
+Fetching news from URL: https://www.cnn.com/markets/stocks/AAPL
+Fetching news from URL: https://www.investing.com/equities/apple-computer-inc-news
+Fetching news from URL: https://investor.apple.com/stock-price/default.aspx
+Fetching news from URL: https://www.nasdaq.com/market-activity/stocks/aapl
+Initialized researcher for Apple Inc
+Creating report for Apple Inc
+Searching Google for: Apple Inc stock news
+Found 11 results
+Fetching news from URL: https://www.cnbc.com/quotes/AAPL
+Fetching news from URL: https://finance.yahoo.com/quote/AAPL/news/
+Fetching news from URL: https://www.marketwatch.com/investing/stock/aapl
+Fetching news from URL: https://www.wsj.com/market-data/quotes/AAPL
+Fetching news from URL: https://markets.businessinsider.com/stocks/aapl-stock
+Fetching news from URL: https://seekingalpha.com/symbol/AAPL
+Fetching news from URL: https://www.nasdaq.com/market-activity/stocks/aapl
+Fetching news from URL: https://www.bloomberg.com/quote/AAPL:US
+Fetching news from URL: https://www.google.com/finance/quote/AAPL:NASDAQ?hl=en
+Fetching news from URL: https://www.investing.com/equities/apple-computer-inc-news
+Fetching news from URL: https://stockanalysis.com/stocks/aapl/
+Report created: Apple Inc_research_report.txt
